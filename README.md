@@ -1,6 +1,6 @@
 ﻿# Student-Management-Service
  The App is built using Spring Boot with Mysql as the backend database.
- Thyemleaf is used for the view layer
+ Thymeleaf is used for the view layer
  
  Functionlaties
  - View students present in the system
